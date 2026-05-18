@@ -20,4 +20,5 @@ man uname
 ls /usr/lib/modules/$(uname -r)
 ```
 ```bash
-echo $NAME```
+echo $NAME
+```
